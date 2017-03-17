@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [365.9576685527531, 0.0, 296.23246922761473, 0.0, 368.28789068976414, 219.17941584235328,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: minibot/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.3647675587956713, 0.10881610465681078, 0.002580184050921142, 0.0002947698442939858,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [265.5503845214844, 0.0, 296.32122678383894, 0.0, 0.0, 295.7548522949219,
+    210.40232071515675, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
